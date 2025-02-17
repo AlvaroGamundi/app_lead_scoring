@@ -1,4 +1,4 @@
-janitor==0.7.0  # Or the latest version you're using
+janitor==0.6.0  # Or the latest version you're using
 cloudpickle==2.2.0
 numpy==1.21.5
 pandas==1.3.5
